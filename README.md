@@ -11,7 +11,7 @@
 
 🧰 Toolbox
 
-[Robot Framework](https://robotframework.org/) - Perhaps the best Automated Testing framework with access to many fantastic libraries such as [Selenium library](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html) and [Browser Library](https://robotframework-browser.org)(powered by Playwright node module) for UI tests, and Python requests library for all API testing needs.
+[Robot Framework](https://robotframework.org/){:target="_blank" rel="noopener"} - Perhaps the best Automated Testing framework with access to many fantastic libraries such as [Selenium library](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html) and [Browser Library](https://robotframework-browser.org)(powered by Playwright node module) for UI tests, and Python requests library for all API testing needs.
 
 [Playwright](https://playwright.dev) - One of the latest and greatest UI/API automation testing tools currently
 
