@@ -12,9 +12,9 @@
 🧰 Toolbox
 
 - [Robot Framework](https://robotframework.org/) - Perhaps the best Automated Testing framework with access to many fantastic libraries such as: 
--- [Selenium library](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html) for UI tests
--- [Browser Library](https://robotframework-browser.org)(powered by Playwright node module) for UI tests
--- [Requests Library](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html) - Wrapper for the well-known Python requests library for all API testing needs
+  - [Selenium library](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html) for UI tests
+  - [Browser Library](https://robotframework-browser.org)(powered by Playwright node module) for UI tests
+  - [Requests Library](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html) - Wrapper for the well-known Python requests library for all API testing needs
 - [Playwright](https://playwright.dev) - One of the latest and greatest UI/API automation testing tools currently
 - [Selenium](https://www.selenium.dev) - Classic, proven, automation tool for functional testing of web applications, supporting different languages such as python, java, ruby, etc.
 - [K6](https://k6.io) - Fantastic load testing tool
