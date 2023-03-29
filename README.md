@@ -17,7 +17,7 @@
   - [Requests Library](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html) - Wrapper for the well-known Python requests library for all API testing needs
 - [Playwright](https://playwright.dev) - One of the latest and greatest UI/API automation testing tools currently
 - [Selenium](https://www.selenium.dev) - Classic, proven, automation tool for functional testing of web applications, supporting different languages such as python, java, ruby, etc.
-- [Cypress](https://cypress.io) - An JavaScript based web test automation tool
+- [Cypress](https://cypress.io) - A JavaScript based web test automation tool to create web tests in JS alongside a JS web app
 - [Jest](https://jestjs.io) - Popular JS framework for testing of full-fledged JavaScript applications and React components
 - [K6](https://k6.io) - Fantastic load testing tool
 - [Postman](https://www.postman.com/) - Great tool for all your API needs and supports GraphQL as well.
