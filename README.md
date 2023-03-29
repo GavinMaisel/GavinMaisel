@@ -15,6 +15,7 @@
   - [Selenium library](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html) - for UI tests
   - [Browser Library](https://robotframework-browser.org)- powered by Playwright for UI tests
   - [Requests Library](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html) - Wrapper for the well-known Python requests library for all API testing needs
+- [Appium](https://appium.io) - Appium is an open source test automation framework for use with native, hybrid and mobile web apps, to drive iOS, Android, and Windows apps using the WebDriver protocol.
 - [Playwright](https://playwright.dev) - One of the latest and greatest UI/API automation testing tools currently
 - [Selenium](https://www.selenium.dev) - Classic, proven, automation tool for functional testing of web applications, supporting different languages such as python, java, ruby, etc.
 - [Cypress](https://cypress.io) - A JavaScript based web test automation tool to create web tests in JS alongside a JS web app
