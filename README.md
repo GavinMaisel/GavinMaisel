@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: Open to New Opportunities and Roles!
+- 🔭 I’m currently working in a fun challenging role involving Quality Assurance and Test Automation.  I have experience in mentoring and growing QA teams, new product feature testing, and building extensive robust automation test suites across Web, Mobile App, and Backend API systems, for CI/CD pipelines, and production monitoring and alerting.
 - 🌱 I’m currently learning Python and JS
 - 👯 I’m looking to collaborate on anything QA or Test Automation
-- 🤔 I’m looking for help with finding a fun challenging role involving Quality Assurance and Test Automation.  I have experience in mentoring and growing QA teams, new product feature testing, and building extensive robust automation test suites across Web, Mobile App, and Backend API systems, for CI/CD pipelines, and production monitoring and alerting.
 - 💬 Ask me about anything Quality Assurance.  QA = Quality Control + Quality Engineering
 - 📫 How to reach me: gavinmaisel@gmail.com
 - 😄 Pronouns: him/him
